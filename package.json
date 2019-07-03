@@ -1,0 +1,32 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "## 功能描述 * 从拉钩网找到“前端开发”这一类岗位的信息，并做相应页面分析，提取出特定的几个部分如岗位名称、岗位薪资、岗位所属公司、岗位发布日期等。抓去并展示",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BETH-zhang/node-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BETH-zhang/node-crawler/issues"
+  },
+  "homepage": "https://github.com/BETH-zhang/node-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "co": "^4.6.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.0",
+    "html-entities": "^1.2.1",
+    "https": "^1.0.0",
+    "puppeteer": "^1.14.0",
+    "request": "^2.88.0",
+    "superagent": "^5.0.2",
+    "superagent-charset": "^1.2.0"
+  }
+}

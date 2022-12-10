@@ -20,7 +20,7 @@
     "cheerio": "^1.0.0-rc.2",
     "co": "^4.6.0",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-generator": "^4.16.0",
     "html-entities": "^1.2.1",
     "https": "^1.0.0",
